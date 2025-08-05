@@ -1,2 +1,4 @@
 # leetgpu-solutions
-Solutions to LeetGPU problems
+
+Keep in mind that I'm not necessarily good at this thing.
+

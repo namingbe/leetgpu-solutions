@@ -1,6 +1,21 @@
+# CUDA artifacts
 *.i
 *.ii
 *.gpu
 *.ptx
 *.cubin
 *.fatbin
+
+# Build directories
+build/
+cmake-build-*/
+
+# NSight Compute
+*.ncu-rep
+*.nsight-cuprof-report
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
